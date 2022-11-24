@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "ac606ec1a71bd7f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "21e0be23a2fd9044",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff1385bf6592c7fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Realm/campaign journal/The Undying Trials/Kill the Goblin King.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c6c0da3c1193d81",
+    "type": "split",
+    "children": [
+      {
+        "id": "22fbc37a72c5706b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d1800c8df99458d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b986d81b064cb35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6897c27628faaf9c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3190674a8459c48",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0dd51102184da4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b6fa6e1a610c015",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Realm/campaign journal/The Undying Trials/Kill the Goblin King.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83c802919686f841",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Realm/campaign journal/The Undying Trials/Kill the Goblin King.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd024c3e9244127c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "440e3eb345a37a74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Realm/campaign journal/The Undying Trials/Kill the Goblin King.md"
+              }
+            }
+          },
+          {
+            "id": "c19ed1616fa7def3",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5
+  },
+  "active": "ff1385bf6592c7fa",
+  "lastOpenFiles": [
+    "The Realm/Dashboard.md",
+    "The Realm/mechanics/Loot.md",
+    "The Realm/campaign journal/The Undying Trials/Kill the Goblin King.md",
+    "Urban Crawl/The City.md",
+    "The Realm/mechanics/Otherworldly Patron_ Ancient Phoenix _ GM Binder.pdf",
+    "The Realm/campaign journal/The Undying Trials/Quests.md",
+    "The Realm/campaign journal/The Undying Trials/The Undying Trials.md",
+    "The Realm/mechanics/Encounters.md",
+    "The Realm/campaign journal/The Undying Trials/Characters.md",
+    "The Realm/campaign journal/The Christmas Run/Characters.md"
+  ]
+}

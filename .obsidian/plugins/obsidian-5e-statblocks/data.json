@@ -1,0 +1,21 @@
+{
+  "monsters": [],
+  "layouts": [],
+  "default": "Basic 5e Layout",
+  "useDice": true,
+  "renderDice": true,
+  "export": true,
+  "showAdvanced": true,
+  "version": {
+    "major": 2,
+    "minor": 21,
+    "patch": 8
+  },
+  "paths": [
+    "/"
+  ],
+  "autoParse": false,
+  "disableSRD": false,
+  "tryToRenderLinks": true,
+  "debug": false
+}

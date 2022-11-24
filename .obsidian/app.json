@@ -1,0 +1,12 @@
+{
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "spellcheck": true,
+  "autoPairMarkdown": false,
+  "useTab": false,
+  "tabSize": 2,
+  "defaultViewMode": "source",
+  "readableLineLength": true
+}

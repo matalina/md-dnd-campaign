@@ -1,0 +1,15 @@
+# Vampire
+
+Ability Scores +3 (0)
+1 extra language (.25)
+Size: Medium (0)
+Creature type: Humanoid (0)
+Replacement type: Undead (.5)
+Speed: 30ft (0)
+Two proficiency skills of your choice (2)
+Darkvision (.5)
+deathless nature (3) (constructed resilience)
+undead fortitued (3)
+Bloodthirst (2)
+Sunlight sensitivity (-1)
+Vulnerable to fire (-1)

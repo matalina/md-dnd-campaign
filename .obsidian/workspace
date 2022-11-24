@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "ac606ec1a71bd7f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "549e76926c8e5612",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Carver Sphere/items/Tokens/Trial campaign/Token 67.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c6c0da3c1193d81",
+    "type": "split",
+    "children": [
+      {
+        "id": "22fbc37a72c5706b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d1800c8df99458d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b986d81b064cb35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6897c27628faaf9c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3190674a8459c48",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0dd51102184da4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b6fa6e1a610c015",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Carver Sphere/items/Tokens/Trial campaign/Token 67.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83c802919686f841",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Carver Sphere/items/Tokens/Trial campaign/Token 67.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd024c3e9244127c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "440e3eb345a37a74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Carver Sphere/items/Tokens/Trial campaign/Token 67.md"
+              }
+            }
+          },
+          {
+            "id": "0d7084aeac6f3efb",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "c19ed1616fa7def3",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "549e76926c8e5612",
+  "lastOpenFiles": [
+    "Carver Sphere/mechanics/Get Started.md",
+    "Carver Sphere/items/Tokens/Trial campaign/Token 67.md",
+    "Carver Sphere/items/Tokens/Trial campaign/Token 16.md",
+    "Carver Sphere/mechanics/old-Backgrounds.md",
+    "Carver Sphere/characters/trial campaign/ael'Nyx Ahnvae.md",
+    "Carver Sphere/characters/trial campaign/Xasha Ailana Darvyn.md",
+    "Carver Sphere/sessions/000.md",
+    "Carver Sphere/items/Token of the World Tree.md",
+    "Carver Sphere/mechanics/Spells.md",
+    "Carver Sphere/mechanics/Token Availability.md"
+  ]
+}
